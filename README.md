@@ -1,0 +1,4 @@
+- Hi, I’m @Tonytinza
+- I’m interested in the structure of operating systems
+- I’m currently learning C++ and ASM
+- To reach out, contact tonytinza@gmail.com or through Discord at tonytinza.
